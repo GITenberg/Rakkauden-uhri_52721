@@ -1,6 +1,9 @@
 _repo: Rakkauden-uhri_52721
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Pour une nuit d'amour. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -13,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52721#Rakkauden-uhri
 gutenberg_issued: '2016-08-04'
 gutenberg_type: Text
 identifiers:
